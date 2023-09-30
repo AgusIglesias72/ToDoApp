@@ -1,0 +1,35 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg478335" viewBox="0 0 1024 768" height="768" width="1024" version="1.1">
+  <metadata id="metadata478341" fill="#FFFFFF">
+    <rdf:rdf fill="#FFFFFF">
+      <cc:work rdf:about="" fill="#FFFFFF">
+        <dc:format fill="#FFFFFF">image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" fill="#FFFFFF"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs478339"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-a869f7b1-b465-4df2-a34d-9caa467e11a1" fill="#FFFFFF">
+    <stop id="stop478316" stop-opacity="1" stop-color="#ffffff" offset="0%" fill="#FFFFFF"></stop>
+    <stop id="stop478318" stop-opacity="1" stop-color="#000000" offset="100%" fill="#FFFFFF"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-a869f7b1-b465-4df2-a34d-9caa467e11a1" fill="#FFFFFF">
+    <stop id="stop478321" stop-opacity="1" stop-color="#ffffff" offset="0%" fill="#FFFFFF"></stop>
+    <stop id="stop478323" stop-opacity="1" stop-color="#cccccc" offset="50%" fill="#FFFFFF"></stop>
+    <stop id="stop478325" stop-opacity="1" stop-color="#000000" offset="100%" fill="#FFFFFF"></stop>
+  </linearGradient>
+  <g id="logo-group" fill="#FFFFFF">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)" fill="#FFFFFF"></image>
+    <g id="logo-center" transform="translate(113.89917000000014 0)" fill="#FFFFFF">
+      <image xlink:href="" id="icon_container" style="display: none;" x="0" y="0" fill="#FFFFFF"></image>
+      <g id="slogan" style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:'Brandmark Sans 32 Color';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)" fill="#FFFFFF"></g>
+      <g id="title" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 32 Color';font-variant-ligatures:normal;text-align:center;text-anchor:middle" transform="translate(0 0)" fill="#FFFFFF">
+        <g id="path478344" aria-label="^G" transform="translate(0 360.49600000000004) translate(50 -56.329600000000006) scale(3.08) translate(-398.98306 51.12)" fill="#FFFFFF"><path class="c3" d="M74.47682,97.11752c0-16.84937,9.2168-25.92212,24.48206-25.92212 c13.17712,0,21.24182,6.62451,23.69006,18.00146h-3.52832c-2.16016-9.86475-8.64075-14.76123-20.16174-14.76123 c-13.68127,0-20.88184,7.05664-20.88184,22.68188c0,15.04932,6.69666,22.68201,20.88184,22.68201 c11.08899,0,17.92957-4.68042,20.08972-14.76123v-3.09631H98.67091v-3.24023h23.97803v23.61804h-3.60034v-8.56873 c-4.10437,6.12048-11.01697,9.28882-20.08972,9.28882C83.04543,123.03989,74.47682,113.31894,74.47682,97.11752z" transform="translate(324.50624 -122.3154)" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#676767" stroke="#676767"></path></g>
+        <g id="path478346" aria-label="^e" transform="translate(0 360.49600000000004) translate(207.65749999999997 -23.06560000000001) scale(3.08) translate(-450.17056 40.32)" fill="#FFFFFF"><path class="c3" d="M78.29225,102.51808c0-13.39307,7.56067-20.52173,20.30579-20.52173s20.30579,7.12866,20.30579,20.52173 H81.89259c0,11.30493,5.18445,16.92151,16.70544,16.92151c9.79285,0,15.26526-3.96033,16.48938-12.6731h3.60034 c-1.51208,10.65686-8.78467,16.27332-20.08972,16.27332C85.42091,123.03981,78.29225,115.33522,78.29225,102.51808z M115.15944,99.27785c-1.00806-9.43286-6.40845-13.68115-16.5614-13.68115c-10.15283,0-15.55334,4.24829-16.5614,13.68115 H115.15944z" transform="translate(371.87831 -122.31635)" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#676767" stroke="#676767"></path></g>
+        <g id="path478348" aria-label="^t" transform="translate(0 360.49600000000004) translate(332.3974999999999 -54.112) scale(3.08) translate(-490.67056 50.4)" fill="#FFFFFF"><path class="c3" d="M89.9214,112.09499V85.95668h-6.62451v-3.24036h6.62451v-10.8009h3.6001v10.8009h20.30566v3.24036H93.5215 v26.13831c0,6.33643,2.95215,6.98462,6.55273,6.98462h13.75293v3.24023H99.93019 C93.5215,122.31984,89.9214,120.3036,89.9214,112.09499z" transform="translate(407.37367 -122.31542)" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#676767" stroke="#676767"></path></g>
+        <g id="path478350" aria-label="G" transform="translate(0 360.49600000000004) translate(438.5131403999998 -56.329600000000006) scale(3.08) translate(-525.12369 51.12)" fill="#FFFFFF"><path class="c1" d="M72.35255,97.11765c0-16.84946,10.00879-25.92224,26.64233-25.92224 c14.32922,0,23.11401,6.62457,25.7782,18.00156H113.6841c-2.08813-5.90451-6.98462-7.20062-14.68921-7.20062 c-11.08899,0-15.84143,3.96036-15.84143,15.12131c0,11.44897,5.25647,15.12131,15.84143,15.12131 c8.0647,0,12.96106-1.36813,14.97729-7.20062v-1.44012h-15.3374V94.2374h26.13831v28.08243h-10.8009v-6.12051 c-2.52026,4.46436-6.55261,6.84058-14.97729,6.84058C81.71339,123.03989,72.35255,113.31906,72.35255,97.11765z" transform="translate(452.77114 -122.31541)" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#373737" stroke="#373737"></path></g>
+        <g id="path478352" aria-label="o" transform="translate(0 360.49600000000004) translate(609.5974999999997 -23.06560000000001) scale(3.08) translate(-580.67056 40.32)" fill="#FFFFFF"><path class="c1" d="M76.38478,102.51809c0-13.39313,8.28052-20.52179,22.17773-20.52179 c14.40137,0,22.17798,7.70471,22.17798,20.52179c0,13.39319-8.28076,20.52179-22.17798,20.52179 C84.16139,123.03988,76.38478,115.33523,76.38478,102.51809z M98.56252,113.31905c7.63281,0,12.09717-3.74432,12.09717-10.80096 c0-6.76855-4.24854-10.8009-12.09717-10.8009c-7.63257,0-12.09692,3.74432-12.09692,10.8009 C86.46559,109.28671,90.71388,113.31905,98.56252,113.31905z" transform="translate(504.28578 -122.3163)" stroke-width="0px" stroke-linejoin="miter" stroke-miterlimit="2" fill="#373737" stroke="#373737"></path></g>
+      </g>
+      <image xlink:href="" id="icon" style="display: none;" x="0" y="0" fill="#FFFFFF"></image>
+    </g>
+  </g>
+</svg>
