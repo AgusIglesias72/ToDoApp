@@ -4,15 +4,25 @@ import { useState } from 'react'
 import CreateModal from './Notes/CreateNoteModal'
 import { Tooltip } from 'flowbite-react'
 import Link from 'next/link'
+import useScrollToFooter from '@/hooks/checkScroll'
 
 export default function BottomNavigation({}) {
   const [isDialOpen, setIsDialOpen] = useState(false)
   const [createModal, setCreateModal] = useState<string | undefined>()
 
+  const { distanceFromEnd, isNearEnd } = useScrollToFooter()
+
   return (
     <>
       <CreateModal openModal={createModal} setOpenModal={setCreateModal} />
-      <div className="fixed z-50 w-full h-16 sm:max-w-lg -translate-x-1/2 bg-white border border-gray-200 shadow-xl sm:rounded-full bottom-0 sm:bottom-4 left-1/2 dark:bg-gray-700 dark:border-gray-600">
+      <div
+        className={`fixed z-50 w-full h-16 sm:max-w-lg 
+      -translate-x-1/2 bg-white border border-gray-200 shadow-xl 
+      sm:rounded-full bottom-0 sm:bottom-4
+      transition-transform duration-300 ease-in-out transform
+      left-1/2 dark:bg-gray-700 dark:border-gray-600
+      `}
+      >
         <div className="grid h-full sm:max-w-lg grid-cols-5 mx-auto">
           <Tooltip content="Home" placement="top" trigger="hover">
             <Link href="/">

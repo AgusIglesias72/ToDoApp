@@ -13,7 +13,9 @@ export default function NavbarWithDropdown({
       <Flowbite>
         <Navbar
           fluid
-          className=" w-full bg-white dark:bg-gray-800 dark:text-white px-4 md:px-16 items-center py-0"
+          className="w-full bg-white dark:bg-gray-800 dark:text-white px-4 md:px-16 items-center py-0
+            overflow-hidden
+          "
           style={{
             boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.05)',
           }}
