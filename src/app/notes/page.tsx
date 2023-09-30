@@ -1,4 +1,4 @@
-import HomePage from '@/pages/UserHomePage'
+import HomePage from '@/page/UserHomePage'
 
 async function Homepage() {
   return (

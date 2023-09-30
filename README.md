@@ -1,3 +1,5 @@
+## GetGo - To Do App
+
 This is a To Do App built for keeping track of your tasks. Simplify your daily activities, setting reminders (\*) and prioritizing your responsibilities. Whether it's for work, school or personal use, our app enables you to mantain full control over your tasks and goals.
 
 Say goodbye to chaos and procrastination. Say hello to a more organized and productive life!
