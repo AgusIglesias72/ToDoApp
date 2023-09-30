@@ -1,38 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a To Do App built for keeping track of your tasks. Simplify your daily activities, setting reminders (\*) and prioritizing your responsibilities. Whether it's for work, school or personal use, our app enables you to mantain full control over your tasks and goals.
 
-## Getting Started
+Say goodbye to chaos and procrastination. Say hello to a more organized and productive life!
 
-First, run the development server:
+This app is responsive, so you can manage your tasks from your desktop, tablet or mobile phone.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+(\*) This feature is coming soon!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## App Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [x] Manage your tasks
+- [x] Add, edit, and delete tasks
+- [x] Mark tasks as complete
+- [x] View completed tasks
+- [x] Protect your tasks with authentication
+- [x] Google Authentication
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Upcoming Features
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [ ] Add a due date to tasks
+- [ ] Add a priority to tasks
+- [ ] Add a category to tasks
+- [ ] Filter tasks by category
+- [ ] Filter tasks by priority
+- [ ] Filter tasks by due date
+- [ ] Notifications for tasks that are due soon
+- [ ] Notifications for tasks that are overdue
+- [ ] Notifications for tasks that are due today
+- [ ] ...and more!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+- [x] TypeScript
+- [x] Next.js
+- [x] React
+- [x] NextAuth.js
+- [x] Tailwind CSS
+- [x] PostCSS
+- [x] PostgreSQL
+- [x] Prisma
+- [x] ESLint
+- [x] Prettier
 
-To learn more about Next.js, take a look at the following resources:
+<!-- "¡Bienvenido a nuestra emocionante To-Do App! Transforma la manera en que gestionas tu vida diaria con esta innovadora herramienta de productividad. Nuestra aplicación web te permite crear, organizar y seguir tus tareas pendientes de manera sencilla y eficiente. Con una interfaz intuitiva y funciones poderosas, como la priorización de tareas, recordatorios y colaboración en tiempo real, nuestra To-Do App te ayudará a mantener el control de tu agenda y alcanzar tus objetivos.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+¿Necesitas acceso en cualquier lugar? No hay problema. Nuestra aplicación es totalmente responsive, lo que significa que puedes gestionar tus tareas desde tu computadora de escritorio, tablet o teléfono móvil. Además, hemos diseñado una experiencia de usuario atractiva y personalizable para que te sientas en control en todo momento.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+¿Estás listo para simplificar tu vida y aumentar tu productividad? Únete a nosotros en este viaje y descubre cómo nuestra To-Do App puede hacer que tu día a día sea más organizado y eficiente. ¡Comienza a lograr tus metas hoy mismo!" -->
